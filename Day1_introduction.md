@@ -1,6 +1,6 @@
-*#Geez Tech Course ( ታህሳስ 03/2015) [Ethical hacking by Natan hailu]*
+# H1**Geez Tech Course ( ታህሳስ 03/2015) [Ethical hacking by Natan hailu]**
 
-*#[Ethics]*
+**#[Ethics]**
  [You Donet Hack because you know hack]
 [You Don't be hacker in 1 night or with this
 Course only] 
