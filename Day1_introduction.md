@@ -1,6 +1,6 @@
-Geez Tech Course ( ታህሳስ 03/2015) [Ethical hacking by Natan hailu]
+*#Geez Tech Course ( ታህሳስ 03/2015) [Ethical hacking by Natan hailu]*
 
-[Ethics]
+*#[Ethics]*
  [You Donet Hack because you know hack]
 [You Don't be hacker in 1 night or with this
 Course only] 
@@ -8,15 +8,15 @@ Course only]
 [Every Useless thing has a use]
 
 [Git and Github]
-[Bit is a version control system or tool, simply a system to manage your files] save the file locally or on remote server [Github/Gitlab].[Molde by the linux Development Community].
+[Git is a version control system or tool, simply a system to manage your files] save the file locally or on remote server [Github/Gitlab].[Made by the linux Development Community].
 
 [Github] 
 is a website/server which Your git is hosted on. your files will be solved in folder Called [Repositoey]
 
 [Git Command]
 [For 1st time ] git init
-                           git config --global user.name '<   >'
-                            git config --global user.email '<   
+                           git config --global user.name '<github account user name>'
+                            git config --global user.email '<github account email>' 
 [For Normal works]
                               git status
                               git add .
@@ -28,114 +28,78 @@ is a website/server which Your git is hosted on. your files will be solved in fo
                      git push -u original master
                      git clone <your project link>
 
-[Introduction to ethical hacking]
+#[Introduction to ethical hacking]
 What is hacking? 
-hacking is referred to exploiting system Vulnerabilities and compromising security Controls to goun Lunauthorized access to the system [Ethical hacking][flnds the weak points or loopholes BLOLCE hout Lockers [ bad ethics]
-
-In a computer. web application, or network and repor
-
-ts them to the organization] [Types OF LOLckers based on ethics]
-
-white host Lauckers ( Good ethics)
-
+hacking is referred to exploiting system Vulnerabilities and compromising security Controls to goun Lunauthorized access to the system [Ethical hacking][flnds the weak points or loop holes.
+ 
+ 
+ [Types OF hackers based on ethics]
+Black hat hackers [ bad ethics]
+white hat hackers ( Good ethics)
 Grey hat hackers [middle means)
 
-PAYS
+[Types of hackers, beesed on skill]
 
+[Newbie/Noob) [ Don't have any knowledge about hack]
+[Script kiddie) [aunskilled individuals who uses scripts or programs Developed by others, primarly for mollicious purposes ]
+[Hacker] [perfectly skilled, less experience]
+[Elite/pro Hacker] ( perfectly stilled, more exper.)
 
-
-(Types of hackers, beesed on skull]
-
-[Newbie/Noob) [ Don't have any knowledge about hack
-
-[Script kiddie) [aunskilled individuals who uses so
-
-ripts or programs Developed by others, primarly for mollicious purposes ]
-
-Hacker, C perfectly skilled less experience]
-
-Elite/pro Hacker ( perfectly stilled, more exper.)
-
-[why we Do learn hacking] To prevent Lackers from Bocinling OLCCESS
-
+[why we Do learn hacking] 
+1.To prevent hackers from Blocking access.
 2. To cover Vulnerabilities.
+3. TO safe guard the Data.
+4. To avoid security Breaches.
 
-3. TO JOLFe guard the Douto
-
-4. To avoid security Breaches
-
-[WAY? Lack LoLpjoens?] ATTOLcEs=motive + method + VUIA
+[Why? hack hapoens?] 
+ Attacks = motive + method + Vulenerability
 
 [Elements of Information security]
 
-Confiden +Low + Core From Disclosure)
+[CIA traid]
 
-\Integrity [socke from alter or mood, F/COLHIO)
-
-·AVOLliecblity CAVOLIQLAR to Authorized use)
-
-[CIA trold]
-
-(skills we need to be a hacker]
-
+[skills we need to be a hacker]
+[system adminstration]
 [programming
-
 [Networking
-
 [linux
-
-
-
+ 
 [phases of hacking]
 
 [Reconnaissance
-
 [scanning
+[gaining access 
+[Mountaining Access.
+[Clearing Tracks or logs
 
-[Mountaining Access. (Clearing Tracks or logs
+ [penteration testing]
+is a method of evoliuotion the Security Of on Informostion System of network by simulating an attack to] [ Find Vulnerability
+                                                                                                         [security measures
+[why we need pen Tes]                                                                                    [Documentation and Rep ort preporaction
+[identification of threats]
+[Security protection & Controls]
+[Assessment of organization's Security]
+[Evaluation of security.]
+[Upgradation of Infrastructure]
 
-penteration His
+[Types of pentesting] 
+ 
+ [Black Box pen.] [ without prior knowledge).
+                   [test as an attacker]
 
-is a method of evoliuotion the Security Of on Informostion System of network by
+[White Box pen] [with prior knowledge]
+                  [test as Developer]
 
-simulating an attack to] [ Find Vulnerability
-
-[why we need pen Tes] [security measures
-
-IdentiFICOLtion of threats
-
-Documentation and Rep ort preporaction
-
-Security protection & Controls
-
-Assessment of organization's Security
-
-Evaluation of security.
-
-[Upgradation of Infrastructure
-
-[Types of pentesting] Black Box pen. I without prior knowledge).
-
-[ test as an attacker]
-
-[White Box pen [ with prior knowledge]
-
-Ctest as Developer]
-
-[Grey Box pen [with limited knowledge]
-
-[ test as anuser]
+[Grey Box pen] [with limited knowledge]
+                  [test as an user]
 
 
-
-
-
-
-Jobs with Ethical Hacking] Cyber Security Expert fweb panteration tester
-
-Security Anoslyst
-
-Internal 2 ext pen tester.
-
-[Cyber Security Consultant [Network work Security tester
-Bug Bounty
+[Jobs with Ethical Hacking] 
+ 
+ [Cyber Security Expert 
+ [web panteration tester
+ [ Security Analyst
+[Internal and exernalt pentration tester.
+[Cyber Security Consultant
+ [Network work Security tester
+[Bug Bounty
