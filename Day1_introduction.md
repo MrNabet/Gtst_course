@@ -1,4 +1,4 @@
-## **Geez Tech Course ( ታህሳስ 03/2015) [Ethical hacking by Natan hailu]**
+## **Geez Tech Course (ታህሳስ 03/2015) [Ethical hacking by Natan hailu]**
 
 ## **[Ethics]**
  [You Donet Hack because you know hack]
@@ -13,7 +13,7 @@ Course only]
 ### [Github] 
 is a website/server which Your git is hosted on. your files will be solved in folder Called [Repositoey]
 
-[Git Command]
+**[Git Command]**
 [For 1st time ] git init
                            git config --global user.name '<github account user name>'
                             git config --global user.email '<github account email>' 
@@ -33,18 +33,20 @@ What is hacking?
 hacking is referred to exploiting system Vulnerabilities and compromising security Controls to goun Lunauthorized access to the system [Ethical hacking][flnds the weak points or loop holes.
  
  ### [Types OF hackers based on ethics]
+ 
 Black hat hackers [ bad ethics]
 white hat hackers ( Good ethics)
 Grey hat hackers [middle means)
 
-### [Types of hackers, beesed on skill]
+### [Types of hackers, based on skill]
 
 [Newbie/Noob) [ Don't have any knowledge about hack]
 [Script kiddie) [aunskilled individuals who uses scripts or programs Developed by others, primarly for mollicious purposes ]
 [Hacker] [perfectly skilled, less experience]
 [Elite/pro Hacker] ( perfectly stilled, more exper.)
 
-### [why we Do learn hacking] 
+### [why we Do learn hacking]
+ 
 1.To prevent hackers from Blocking access.
 2. To cover Vulnerabilities.
 3. TO safe guard the Data.
