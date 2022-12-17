@@ -1,13 +1,13 @@
 ## **Geez Tech Course ( ታህሳስ 03/2015) [Ethical hacking by Natan hailu]**
 
-# **[Ethics]**
+## **[Ethics]**
  [You Donet Hack because you know hack]
 [You Don't be hacker in 1 night or with this
 Course only] 
 [Try to simplify everything Don't make them hard]
 [Every Useless thing has a use]
 
-#[Git and Github]
+### [Git and Github]
 [Git is a version control system or tool, simply a system to manage your files] save the file locally or on remote server [Github/Gitlab].[Made by the linux Development Community].
 
 #[Github] 
