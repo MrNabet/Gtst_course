@@ -1,141 +1,107 @@
-Geez Tech Course ( ታህሳስ 03/2015) [Ethical hacking by Natan hailu]
+## **Geez Tech Course (ታህሳስ 03/2015) [Ethical hacking by Natan hailu]**
 
-[Ethics]
- [You Donet Hack because you know hack]
-[You Don't be hacker in 1 night or with this
+## **[Ethics]**
+- [You Donet Hack because you know hack]
+- [You Don't be hacker in 1 night or with this
 Course only] 
-[Try to simplify everything Don't make them hard]
-[Every Useless thing has a use]
+- [Try to simplify everything Don't make them hard]
+- [Every Useless thing has a use]
 
-[Git and Github]
-[Bit is a version control system or tool, simply a system to manage your files] save the file locally or on remote server [Github/Gitlab].[Molde by the linux Development Community].
+### [Git and Github]
+[Git is a version control system or tool, simply a system to manage your files] save the file locally or on remote server [Github/Gitlab].[Made by the linux Development Community].
 
-[Github] 
+### [Github] 
 is a website/server which Your git is hosted on. your files will be solved in folder Called [Repositoey]
 
-[Git Command]
-[For 1st time ] git init
-                           git config --global user.name '<   >'
-                            git config --global user.email '<   
+**[Git Command]**
+[For 1st time ]          - git init
+                          - git config --global user.name '<github account user name>'
+                           - git config --global user.email '<github account email>' 
 [For Normal works]
-                              git status
-                              git add .
-                              git Commit -m '<Your Comment>'
-                              git log
+                            -  git status
+                             - git add .
+                              - git Commit -m '<Your Comment>'
+                               - git log
 
 [#1 for Github] 
-                     git remote add origin <repository url>
-                     git push -u original master
-                     git clone <your project link>
+                     - git remote add origin <repository url>
+                     - git push -u original master
+                     - git clone <your project link>
 
-[Introduction to ethical hacking]
+### [Introduction to ethical hacking]
 What is hacking? 
-hacking is referred to exploiting system Vulnerabilities and compromising security Controls to goun Lunauthorized access to the system [Ethical hacking][flnds the weak points or loopholes BLOLCE hout Lockers [ bad ethics]
+hacking is referred to exploiting system Vulnerabilities and compromising security Controls to goun Lunauthorized access to the system [Ethical hacking][flnds the weak points or loop holes.
+ 
+ ### [Types OF hackers based on ethics]
+ 
+1. Black hat hackers [ bad ethics]
+2. white hat hackers ( Good ethics)
+3. Grey hat hackers [middle means)
 
-In a computer. web application, or network and repor
+### [Types of hackers, based on skill]
 
-ts them to the organization] [Types OF LOLckers based on ethics]
+1. [Newbie/Noob) [ Don't have any knowledge about hack]
+2. [Script kiddie) [aunskilled individuals who uses scripts or programs Developed by others, primarly for mollicious purposes ]
+3. [Hacker] [perfectly skilled, less experience]
+4. [Elite/pro Hacker] ( perfectly stilled, more exper.)
 
-white host Lauckers ( Good ethics)
-
-Grey hat hackers [middle means)
-
-PAYS
-
-
-
-(Types of hackers, beesed on skull]
-
-[Newbie/Noob) [ Don't have any knowledge about hack
-
-[Script kiddie) [aunskilled individuals who uses so
-
-ripts or programs Developed by others, primarly for mollicious purposes ]
-
-Hacker, C perfectly skilled less experience]
-
-Elite/pro Hacker ( perfectly stilled, more exper.)
-
-[why we Do learn hacking] To prevent Lackers from Bocinling OLCCESS
-
+### [why we Do learn hacking]
+ 
+1.To prevent hackers from Blocking access.
 2. To cover Vulnerabilities.
+3. TO safe guard the Data.
+4. To avoid security Breaches.
 
-3. TO JOLFe guard the Douto
-
-4. To avoid security Breaches
-
-[WAY? Lack LoLpjoens?] ATTOLcEs=motive + method + VUIA
+### [Why? hack happens?] 
+ Attacks = motive + method + Vulenerability
 
 [Elements of Information security]
 
-Confiden +Low + Core From Disclosure)
+[CIA traid]
 
-\Integrity [socke from alter or mood, F/COLHIO)
+### [skills we need to be a hacker]
+ 
+- [system adminstration]
+- [programming
+- [Networking
+- [linux
+ 
+### [phases of hacking]
 
-·AVOLliecblity CAVOLIQLAR to Authorized use)
+- [Reconnaissance
+- [scanning
+- [gaining access 
+- [Mountaining Access.
+- [Clearing Tracks or logs
 
-[CIA trold]
+ ### [penteration testing]
+is a method of evoliuotion the Security Of on Informostion System of network by simulating an attack to] [ Find Vulnerability
+                                                                                                         [security measures
+ ### [why we need pen Tes]                                                                                    [Documentation and Rep ort preporaction
+- [identification of threats]
+- [Security protection & Controls]
+- [Assessment of organization's Security]
+- [Evaluation of security.]
+- [Upgradation of Infrastructure]
 
-(skills we need to be a hacker]
+### [Types of pentesting] 
+ 
+1. [Black Box pen.] [ without prior knowledge).
+                   [test as an attacker]
 
-[programming
+2. [White Box pen] [with prior knowledge]
+                  [test as Developer]
 
-[Networking
-
-[linux
-
-
-
-[phases of hacking]
-
-[Reconnaissance
-
-[scanning
-
-[Mountaining Access. (Clearing Tracks or logs
-
-penteration His
-
-is a method of evoliuotion the Security Of on Informostion System of network by
-
-simulating an attack to] [ Find Vulnerability
-
-[why we need pen Tes] [security measures
-
-IdentiFICOLtion of threats
-
-Documentation and Rep ort preporaction
-
-Security protection & Controls
-
-Assessment of organization's Security
-
-Evaluation of security.
-
-[Upgradation of Infrastructure
-
-[Types of pentesting] Black Box pen. I without prior knowledge).
-
-[ test as an attacker]
-
-[White Box pen [ with prior knowledge]
-
-Ctest as Developer]
-
-[Grey Box pen [with limited knowledge]
-
-[ test as anuser]
+3. [Grey Box pen] [with limited knowledge]
+                  [test as an user]
 
 
-
-
-
-
-Jobs with Ethical Hacking] Cyber Security Expert fweb panteration tester
-
-Security Anoslyst
-
-Internal 2 ext pen tester.
-
-[Cyber Security Consultant [Network work Security tester
-Bug Bounty
+### [Jobs with Ethical Hacking] 
+ 
+ - [Cyber Security Expert 
+ - [web panteration tester
+ - [ Security Analyst
+- [Internal and exernalt pentration tester.
+- [Cyber Security Consultant
+ - [Network work Security tester
+- [Bug Bounty
