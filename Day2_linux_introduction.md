@@ -1,6 +1,6 @@
 ## **[Day 2_linux]**
 
-**[What is Linux]** 
+### **[What is Linux]** 
 - Linux is a kernel.
 
 **[What is kernel]**
@@ -11,7 +11,7 @@
 
 - [Richard Stallman Amounced the GNU linux project In 1983 ound Cofounded the free softulare foundation IA 1985 GNU is a free software replacement to the UNIX Os, But it Lucas just software replay not full of Cexamples: Bash, tar, emacs] [SO GNU LINUX, will give the GNU/LINUX os The (GNU LINUX project] was started to create a UNIX-11 kernel operating system Created with Source Code that Could be copled modified and redistributed].
 
-**[what is shell]**
+### **[what is shell]**
 - [users communicate with the kernel by the [shell] [Shell is command line Interpreter] it translates Commands entered by the user and converts them Into a language that is understood by the [kernel].
 
 **[Types Of Shells] [Based on their features there are]
@@ -20,7 +20,7 @@
 - ZSH
 - FISH  [They Differ by Colouring, piping, Command]
 
-**What Is Os-operating system**
+### **What Is Os-operating system**
 - [it means the main software [system software] part of Computer that helps to work on]
 **[it contains]
 - kernel
@@ -35,7 +35,7 @@
 - KDE plosmol
 - XFCE
 
-**(WHICH IS BEST!]** Speed Depends on
+**[WHICH IS BEST!]** Speed Depends on
 - Animation
 - High Grouphics.
 - Quality
@@ -67,7 +67,7 @@
 - gentoo
 - Android
 
-**[WHICH IS best for houckers is]** 
+**[WHICH IS best for hackers is]** 
 **kali linux**
 - Kauli linux Debian-Derived linux distros designed for digital forensics and penteration testing. it is maintained and funded by offensive security.
 **parrot os**
