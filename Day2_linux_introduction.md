@@ -84,7 +84,7 @@
 2. [Live Boot/[using flash Drive]
 3. [Cloud terminals]
 4. **[virtual machine]** computers Technology Called Virtualization is a method how it allocate our using memory to the Virtual machines.
-[Softwalks that Gives Virtualization ability]
+- [Softwalks that Gives Virtualization ability]
 - Hyber v
 - QEMV
 - Virtual box oracle
