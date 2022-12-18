@@ -28,7 +28,7 @@
 - File extensions
 - Softwares
 - Desktop env't
-- window manager**
+- window manager
 
 **[Types of desktop environment on linux]**
 - Mate
