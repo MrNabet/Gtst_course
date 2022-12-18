@@ -14,19 +14,21 @@ Course only]
 is a website/server which Your git is hosted on. your files will be solved in folder Called [Repositoey]
 
 **[Git Command]**
-[For 1st time ]          - git init
-                          - git config --global user.name '<github account user name>'
-                           - git config --global user.email '<github account email>' 
-[For Normal works]
-                            -  git status
-                             - git add .
-                              - git Commit -m '<Your Comment>'
-                               - git log
+**[For 1st time ]**          
+- git init
+- git config --global user.name '<github account user name>'
+- git config --global user.email '<github account email>' 
 
-[#1 for Github] 
-                     - git remote add origin <repository url>
-                     - git push -u original master
-                     - git clone <your project link>
+**[For Normal works]**
+- git status
+- git add .
+- git Commit -m '<Your Comment>'
+- git log
+
+**[#1 for Github]** 
+- git remote add origin <repository url>
+- git push -u original master
+- git clone <your project link>
 
 ### [Introduction to ethical hacking]
 What is hacking? 
