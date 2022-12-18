@@ -6,7 +6,7 @@
 **[What is kernel]**
 - is a Code/program that used to meet your software and hardware]. and allocate some resources.
 
-#**[History of Linux]**
+**[History of Linux]**
 - in 1969 of team led by computer scientist ken Thompson and Dennis Ritchie created the 1st Version of UNIX ON a PDP-7 mini.computer [ it was not cheap and open source] [The person LINUS TORVALDS Created the linux kernel. (open source) posted it online]
 
 - [Richard Stallman Amounced the GNU linux project In 1983 ound Cofounded the free softulare foundation IA 1985 GNU is a free software replacement to the UNIX Os, But it Lucas just software replay not full of Cexamples: Bash, tar, emacs] [SO GNU LINUX, will give the GNU/LINUX os The (GNU LINUX project] was started to create a UNIX-11 kernel operating system Created with Source Code that Could be copled modified and redistributed].
@@ -14,7 +14,8 @@
 ### **[what is shell]**
 - [users communicate with the kernel by the [shell] [Shell is command line Interpreter] it translates Commands entered by the user and converts them Into a language that is understood by the [kernel].
 
-**[Types Of Shells] [Based on their features there are]
+**[Types Of Shells]**
+- [Based on their features there are]
 - SH
 - BASH
 - ZSH
