@@ -48,6 +48,7 @@
 
 **[linux distributions/distro]**
 - Distro is modified Linux kernels.
+
 **[Type OF OF os different with]**
 - Linux kernel
 - Packages (GNU)
@@ -55,15 +56,15 @@
 - Desktop ui
 
 **[ There are so mony Distros]**
-**Debian**
+- **Debian**
 - kali linux
 - ubuntu
 - prrot
-**Arch**
+- **Arch**
 - Black
 - arch
 - garuda
-**Fedora**
+- **Fedora**
 - Red Hat
 - gentoo
 - Android
