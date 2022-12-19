@@ -29,7 +29,7 @@
 - linux systems uses shell the shell helps us to communicate with the kernel and helps to execute Codes. Shell also called "Terminal".
 - The terminal have 5 parts.  (nachom@kali)-[~]
                               $
-                              - Username = nahom 
+-                              Username = nahom 
                               - Hostname = kali
                               - Current Directory = PATH"
                               - priviledge = $-(user). #(root)
