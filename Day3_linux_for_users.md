@@ -17,14 +17,14 @@
 14. [system service] [Buttons used to start some Services]
 15. [Usually used applications] [softwares for some basic purposes]
 -                                 **Some other features on linux**
-- work space manager
-- Desktop properties
-- Bacoground Changes
-- Folder managers
-1. Dolphin
-2. Thunar
-3. Nautilus
-- on windows it is not Free Shrestha files prox[File explorer For Windows] 
+                                       - work space manager
+                                       - Desktop properties
+                                       - Bacoground Changes
+                                       - Folder managers
+                                          1. Dolphin
+                                          2. Thunar
+                                          3. Nautilus
+                                       - on windows it is not Free Shrestha files prox[File explorer For Windows] 
 **[Linux Commands]**
 - linux systems uses shell the shell helps us to communicate with the kernel and helps to execute Codes. Shell also called "Terminal".
 - The terminal have 5 parts.  
