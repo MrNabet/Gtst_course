@@ -16,7 +16,7 @@
 13. [Social engineering tools] [for social engineering attacks]
 14. [system service] [Buttons used to start some Services]
 15. [Usually used applications] [softwares for some basic purposes]
-   **Some other features on linux**
+-                                 **Some other features on linux**
 - work space manager
 - Desktop properties
 - Bacoground Changes
@@ -27,9 +27,10 @@
 - on windows it is not Free Shrestha files prox[File explorer For Windows] 
 **[Linux Commands]**
 - linux systems uses shell the shell helps us to communicate with the kernel and helps to execute Codes. Shell also called "Terminal".
-- The terminal have 5 parts.  (nachom@kali)-[~]
+- The terminal have 5 parts.  
+-                            (nahom@kali)-[~]
                               $
--                              Username = nahom 
+                              - Username = nahom 
                               - Hostname = kali
                               - Current Directory = PATH"
                               - priviledge = $-(user). #(root)
@@ -41,10 +42,12 @@
 
 **[What is Command]** [small programs that do one task well]
 
-- **[ls]** List Directory
+- **[ls]** 
+- List Directory
 - syntax   ls [option] [file]
 
-- **[CD]** change Directory
+- **[CD]** 
+- change Directory
 - SYNOPSIS CD [Directory]
 - CD/ =root
 - CD = home
@@ -65,16 +68,20 @@
 - creates any kind of files empty inside.
 - touch [file] [file2].
 
-- **[mkdir]** [make directory]
+- **[mkdir]** 
+- [make directory]
 - mkdir [foldername]
 - [folder name with speace between use ""]
 
-- **[clear] clear your screen.
+- **[clear] 
+- clear your screen.
 
-- **[rm]** [remove]
+- **[rm]** 
+- [remove]
 - rm [option] [filename]
 
-- **[cp & mv]** [copy, move]
+- **[cp & mv]** 
+- [copy, move]
 - Cp  [Filename] [newplace]
 
 ### **[grep (global search for regular expression)]**
