@@ -42,47 +42,47 @@
 
 **[What is Command]** [small programs that do one task well]
 
-- **[ls]** 
-- List Directory
-- syntax   ls [option] [file]
+-                                                   **[ls]** 
+                                                - List Directory
+                                                - syntax   ls [option] [file]
 
-- **[CD]** 
-- change Directory
-- SYNOPSIS CD [Directory]
-- CD/ =root
-- CD = home
-- CD .. = 1x Back
-- CD ../.. = 2x Back
+-                                                   **[CD]** 
+                                                - change Directory
+                                                - SYNOPSIS CD [Directory]
+                                                - CD/ =root
+                                                - CD = home
+                                                - CD .. = 1x Back
+                                                - CD ../.. = 2x Back
 
-- **[pwd]** 
-- print working Directory.
+-                                                  **[pwd]** 
+                                                - print working Directory.
  
-- **[echo]**
-- echo [option] [string]
-- Discription Cis used to Display line of text/string that are passed as an argument. Also it use for write text into files.
+-                                                  **[echo]**
+                                                - echo [option] [string]
+                         - Discription Cis used to Display line of text/string that are passed as an argument. Also it use for write text into files.
 
-- **[Cat/head/tail/less]**
-- Cat + [File] [used to show the content of ofile] 
+-                                           **[Cat/head/tail/less]**
+                                - Cat + [File] [used to show the content of ofile] 
 
-- **[touch]**
-- creates any kind of files empty inside.
-- touch [file] [file2].
+-                                                  **[touch]**
+                                    - creates any kind of files empty inside.
+                                            - touch [file] [file2].
 
-- **[mkdir]** 
-- [make directory]
-- mkdir [foldername]
-- [folder name with speace between use ""]
+-                                                  **[mkdir]** 
+                                               - [make directory]
+                                              - mkdir [foldername]
+                                    - [folder name with speace between use ""]
 
-- **[clear] 
-- clear your screen.
+-                                                  **[clear] 
+                                                - clear your screen.
 
-- **[rm]** 
-- [remove]
-- rm [option] [filename]
+-                                                   **[rm]** 
+                                                  - [remove]
+                                           - rm [option] [filename]
 
-- **[cp & mv]** 
-- [copy, move]
-- Cp  [Filename] [newplace]
+-                                                **[cp & mv]** 
+                                                - [copy, move]
+                                          - cp  [Filename] [newplace]
 
 ### **[grep (global search for regular expression)]**
 - grep [options] pattern [files] 
