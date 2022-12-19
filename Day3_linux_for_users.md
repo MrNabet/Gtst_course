@@ -1,21 +1,21 @@
 ## [Day3_linux_for_users]
 ### **[Overview of Tools] **
 
-1] [Information Gathering Tools] [for Information gathering, In system, network, host]
-2] [Vulnerability Analysis] [for finding vulnerability]
-3) [web Application Analysis] [for finding vulnerability & exploit on websites]
-4] [Database Assessment] [finding vlun. & exploit on Datatbase]
-5) [password Attacks] [for exploiting paswords login, websites, application, windows]
-6] [wireless Attacks] [for exploiting wireless systems like wifi, blutooth]
-7] [Reverse Engineering] [Tools for exploiting Software, mobile application and any binary files]
-8] [Exploitation TOOLS] [Tools For exploiting softwares, mobile, Computers, websites and any things.]
-9] [Sniffing & Spoofing] [Tools for listening or hjacking networks]
-10] [post exploitation] [Tools for mountaing our access used after exploiting a system] 
-11] [Forensics] [ TOOLS For Doing researches and Investigate of Cyber Attacks]
-12] [Reporting tools] [Tools for report preparation after some forensic you will get Data and you will write report and these tools will help you] 
-13) [Social engineering tools] [for social engineering attacks]
-14] [system service] [Buttons used to start some Services]
-15] [Usually used applications] [softwares for some basic purposes]
+1, [Information Gathering Tools] [for Information gathering, In system, network, host]
+2, [Vulnerability Analysis] [for finding vulnerability]
+3, [web Application Analysis] [for finding vulnerability & exploit on websites]
+4, [Database Assessment] [finding vlun. & exploit on Datatbase]
+5, [password Attacks] [for exploiting paswords login, websites, application, windows]
+6, [wireless Attacks] [for exploiting wireless systems like wifi, blutooth]
+7, [Reverse Engineering] [Tools for exploiting Software, mobile application and any binary files]
+8, [Exploitation TOOLS] [Tools For exploiting softwares, mobile, Computers, websites and any things.]
+9, [Sniffing & Spoofing] [Tools for listening or hjacking networks]
+10, [post exploitation] [Tools for mountaing our access used after exploiting a system] 
+11, [Forensics] [ TOOLS For Doing researches and Investigate of Cyber Attacks]
+12, [Reporting tools] [Tools for report preparation after some forensic you will get Data and you will write report and these tools will help you] 
+13, [Social engineering tools] [for social engineering attacks]
+14, [system service] [Buttons used to start some Services]
+15, [Usually used applications] [softwares for some basic purposes]
    **Some other features on linux**
 - work space manager
 - Desktop properties
@@ -42,49 +42,49 @@
 **[What is Command]** [small programs that do one task well]
 
 - **[ls]** List Directory
-syntax   ls [option] [file]
+- syntax   ls [option] [file]
 
 - **[CD]** change Directory
-SYNOPSIS CD [Directory]
-CD/ =root
-CD = home
-CD .. = 1x Back
-CD ../.. = 2x Back
+- SYNOPSIS CD [Directory]
+- CD/ =root
+- CD = home
+- CD .. = 1x Back
+- CD ../.. = 2x Back
 
 - **[pwd]** 
- print working Directory.
+- print working Directory.
  
 - **[echo]**
-echo [option] [string]
-Discription Cis used to Display line of text/string
-that are passed as an argument. Also it use for write text into files.
+- echo [option] [string]
+- Discription Cis used to Display line of text/string that are passed as an argument. Also it use for write text into files.
 
 - **[Cat/head/tail/less]**
-Cat + [File] [used to show the content of ofile] 
+- Cat + [File] [used to show the content of ofile] 
 
 - **[touch]**
-creates any kind of files empty inside.
-touch [file] [file2].
+- creates any kind of files empty inside.
+- touch [file] [file2].
 
 - **[mkdir]** [make directory]
-mkdir [foldername]
-[folder name with speace between use ""]
+- mkdir [foldername]
+- [folder name with speace between use ""]
 
 - **[clear] clear your screen.
 
 - **[rm]** [remove]
-rm [option] [filename]
+- rm [option] [filename]
 
 - **[cp & mv]** [copy, move]
-Cp  [Filename] [newplace]
+- Cp  [Filename] [newplace]
 
 ### **[grep (global search for regular expression)]**
-grep [options] pattern [files] 
+- grep [options] pattern [files] 
 
 ### **[Wc / word count]**
-is used to find out number of lines, word count, byte and Characters count in the files specified in the file arguments] [_-1, -w -c]---[options]
-
+- is used to find out number of lines, word count, byte and Characters count in the files specified in the file arguments] [_-1, -w -c]---[options]
+- wc [option] [filename]
+- 
 ### **[Multiple Command Executions methods]**
-And ($$) [if both are working]
-or (ll)
-pipeing (l) [it help to run commands by using the output of 1st command as input for the next [one]
+- And ($$) [if both are working]
+- or (ll)
+- pipeing (l) [it help to run commands by using the output of 1st command as input for the next [one]
