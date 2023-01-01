@@ -1,7 +1,7 @@
-#on Gtst_course
-we will have take an Ethical hacking course which include all below
+## on Gtst_course
+**we will have take an Ethical hacking course which include all below**
 Module 1
-○ Introduction to Ethical hacking(1)
+##** Introduction to Ethical hacking(1)
 ○ Linux (4)
 ○ Python (4)
 ○ Bash (2)
