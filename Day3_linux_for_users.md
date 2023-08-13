@@ -11,7 +11,7 @@
 8. [Exploitation TOOLS] [Tools For exploiting softwares, mobile, Computers, websites and any things.]
 9. [Sniffing & Spoofing] [Tools for listening or hjacking networks]
 10. [post exploitation] [Tools for mountaing our access used after exploiting a system] 
-11. [Forensics] [ TOOLS For Doing researches and Investigate of Cyber Attacks]
+11. [Forensics] [ Tools For Doing researches and Investigate of Cyber Attacks]
 12. [Reporting tools] [Tools for report preparation after some forensic you will get Data and you will write report and these tools will help you] 
 13. [Social engineering tools] [for social engineering attacks]
 14. [system service] [Buttons used to start some Services]
@@ -90,7 +90,7 @@
 ### **[Wc / word count]**
 - is used to find out number of lines, word count, byte and Characters count in the files specified in the file arguments] [_-1, -w -c]---[options]
 - wc [option] [filename]
-- 
+  
 ### **[Multiple Command Executions methods]**
 - And ($$) [if both are working]
 - or (ll)
