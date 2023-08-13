@@ -1,5 +1,5 @@
 ## On Gtst_course
-**we will have take an Ethical hacking course which include all below**
+**we will have take an Ethical hacking course which include all below.**
 ## **Module 1**
 1. Introduction to Ethical hacking(1)
 2. Linux (4)
@@ -13,9 +13,9 @@
 4. Social Engineering( Social Media hacking )
 5. Steganography & Cryptography
 6. sniffing
-7. system hacking (Phone,Computer,Server hacking , revers shell)
+7. system hacking (Phone, Computer, Server hacking, revers shell)
 8. DOS/DDOS + DARK WEB
 9. Hacking Websites
-10. Hacking Wireless Networks { WIFI and ETHERNET hacking}
+10. Hacking Wireless Networks {WIFI and ETHERNET hacking}
 11. CTF
 12. BUG BOUNTY HUNTING & What you have to Do next?
